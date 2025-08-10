@@ -1,6 +1,6 @@
 # All-sports-channels-
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/daddylive-channels-epg.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="Astro.Cricket.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-cricket-my.png" group-title="All Sports",Astro Cricket
 https://zekonew.newkso.ru/zeko/premium370/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
