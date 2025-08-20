@@ -101,9 +101,6 @@ https://zekonew.newkso.ru/zeko/premium81/mono.m3u8|Referer=https%3A%2F%2Fchimera
 #EXTINF:-1 tvg-id="ESPN.Deportes.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="All Sports",ESPN Deportes
 https://zekonew.newkso.ru/zeko/premium375/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-extra.png" group-title="All Sports",ESPN Extra Argentina
-https://dokko1new.newkso.ru/dokko1/premium798/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-premium-ar.png" group-title="All Sports",ESPN Premium Argentina
 https://windnew.newkso.ru/wind/premium387/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
@@ -113,22 +110,22 @@ https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8|Referer=https%3A%2F%2Fchimer
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://ia801505.us.archive.org/14/items/EspnUsa/espn%20usa.png" group-title="All Sports",ESPN USA
 https://zekonew.newkso.ru/zeko/premium44/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/1x/espn-brasil-2-logo.png" group-title="All Sports",ESPN2 Brazil
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="All Sports",ESPN2 Brazil
 https://windnew.newkso.ru/wind/premium82/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-2-ar.png" group-title="All Sports",ESPN2 SUR
 https://windnew.newkso.ru/wind/premium150/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-2-usa.png" group-title="All Sports",ESPN2 USA
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="All Sports",ESPN2 USA
 https://windnew.newkso.ru/wind/premium45/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-1.png" group-title="All Sports",ESPN3 Brazil
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="All Sports",ESPN3 Brazil
 https://ddy6new.newkso.ru/ddy6/premium83/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-4-brasil.png" group-title="All Sports",ESPN4 Brazil
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="All Sports",ESPN4 Brazil
 https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-u-usa.png" group-title="All Sports",ESPNU USA
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png" group-title="All Sports",ESPNU USA
 https://zekonew.newkso.ru/zeko/premium316/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" group-title="All Sports",ESPNews
